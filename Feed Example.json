@@ -1,0 +1,23 @@
+{
+    "feeds":[
+        {
+            "name":"PewDiePie",
+            "link":"https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+            "updated":"New update"
+        },
+        {
+            "name": "YouTube",
+            "link": "https://www.youtube.com/feeds/videos.xml?channel_id=ChaNNel_ID-heRe",
+            "updated": "New update"
+        },
+        {
+            "name": "Podcast Example",
+            "link": "https://podcast-ex.com/feed",
+            "updated": "New update"
+        }
+    ],
+    "channel":{
+        "id":"Your Discord channel ID here."
+    },
+    "token":"Your Discord bot token here"
+}

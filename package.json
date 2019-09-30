@@ -1,0 +1,20 @@
+{
+  "name": "feed-it-to-me",
+  "version": "1.0.0",
+  "description": "A Discord bot that sends you messages whenever there's an update on yoru favorite feeds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Diego Lebedenco",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "feedparser": "^2.2.9",
+    "request": "^2.88.0"
+  }
+}
