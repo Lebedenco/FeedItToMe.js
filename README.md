@@ -8,3 +8,5 @@ You can add and remove entries with "!add" and "!remove";
 Clear the chat with "!clear";
 
 And check the last entry for a single feed with "!check Feed Name"
+
+A .json configuration file is needed for this to run, you can find a "Feed Example.json" file here.
